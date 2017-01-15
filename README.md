@@ -5,7 +5,7 @@
 
 ##概要
 
-这是基于[阳志平老师](http://www.yangzhiping.com/tech/r-markdown-knitr.html)分享的，还有[阿禅的可能吧](http://mp.weixin.qq.com/s?__biz=MjM5ODQwMjA4MA==&mid=2649293603&idx=1&sn=57f38200555dcba76d6358594416c089&mpshare=1&scene=1&srcid=11306fdTRqk8EACxnFLwg4Al#rd)分享的内容，这一键排版是通过浏览器插件去实现的，
+这是基于[阳志平老师](http://www.yangzhiping.com/tech/r-markdown-knitr.html)分享的，还有[阿禅的可能吧](http://mp.weixin.qq.com/s?__biz=MjM5ODQwMjA4MA==&mid=2649293603&idx=1&sn=57f38200555dcba76d6358594416c089&mpshare=1&scene=1&srcid=11306fdTRqk8EACxnFLwg4Al#rd)分享的内容受启发，希望能解放生产力而已。
 暂时只做了一个样式而已，还是比较适合技术风格，学术风格和文字生产者的风格的。其他的样式会陆续试试看的、
 
 ##缘起
@@ -38,7 +38,7 @@ atom 里面装 markdown 插件也可以,不过比较适合 geek 啦
 这个插件是可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
 [安装](http://markdown-here.com/get.html)
 ###4. 配置 Markdown Here Option
-安装成功后，在Markdown Here插件的选项中，选择“基本渲染CSS”，进行部分修改。
+安装成功后，在Markdown Here插件的选项中，选择“基本渲染CSS”，进行部分修改。（这里放的不是《新闻实验室》的样式）
 css01
 ###5. 使用 Markdown Here 渲染
 把用 markdown 语言写好的文章复制黏贴到微信公众编辑器里，点击插件或快键键（默认快捷键是ALT + CTRL +Z）实现样式就可以了。
