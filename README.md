@@ -26,8 +26,11 @@
 ###2. 使用 Markdown 语言去写作
 写作工具推荐：
 [Mweb](http://zh.mweb.im/)
+
 [typora](https://typora.io/)
+
 [moeditor](https://moeditor.org/)
+
 atom 里面装 markdown 插件也可以,不过比较适合 geek 啦
 
 ###3. 下载浏览器插件 Markdown here
